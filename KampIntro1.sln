@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{A1B36D1A-E7CC-4DD2-A50D-988F9598855F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProjects", "Linq\LinqProjects.csproj", "{743A72FB-0CB6-4E3C-A94A-DDB02004F17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProjects", "Linq\LinqProjects.csproj", "{743A72FB-0CB6-4E3C-A94A-DDB02004F17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekarlamaLinq", "TekarlamaLinq\TekarlamaLinq.csproj", "{64D66892-6E09-4946-85C7-1FE13F8953F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{743A72FB-0CB6-4E3C-A94A-DDB02004F17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{743A72FB-0CB6-4E3C-A94A-DDB02004F17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{743A72FB-0CB6-4E3C-A94A-DDB02004F17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D66892-6E09-4946-85C7-1FE13F8953F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D66892-6E09-4946-85C7-1FE13F8953F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D66892-6E09-4946-85C7-1FE13F8953F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D66892-6E09-4946-85C7-1FE13F8953F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
